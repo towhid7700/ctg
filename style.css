@@ -1,0 +1,123 @@
+*{
+    padding: 0;
+    margin: 0; 
+}
+
+.container{
+    width: 1140px;
+    margin: 0 auto; 
+}
+
+a{
+    text-decoration: none; 
+}
+ul{
+    list-style-type: none; 
+}
+
+.left{
+    float: left; 
+}
+
+.login-form {
+    width: 100%;
+    float: left;
+    padding: 121px 0;
+    background: #607d8bf2;
+}
+
+
+.content-one{
+
+    width: 50%
+
+}
+
+.content-one h1 {
+    color: white;
+    font-size: 33px;
+    width: 113%;
+}
+
+.content-one p {
+    color: white;
+    margin: 15px 0;
+    font-size: 17px;
+    margin-top: 20px;
+}
+
+.content-one ul li{
+
+}
+
+.content-one ul li a{
+    color: white; 
+}
+
+
+.btn {
+    color: white;
+    background: #56ff00a6;
+    padding: 14px 10px;
+    border-radius: 5px;
+    font-size: 16px;
+    display: block;
+    width: 135px;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.bg-container {
+    width: 58%;
+    background: #9e9e9ecf;
+    margin: 0 auto;
+    padding: 16px;
+    border-radius: 5px;
+    margin-right: 5px;
+}
+
+.bg-container h2 {
+    color: white;
+    font-size: 27px;
+    font-weight: 800;
+    text-align: center;
+    padding-top: 20px
+}
+
+.bg-container p {
+    color: white;
+    text-align: center;
+    font-size: 18px;
+    margin: 15px 0;
+}
+
+.content-two{
+    width: 50%; 
+}
+
+.input-form{
+
+}
+
+.form-control {
+    width: 92%;
+    padding: 7px;
+    margin-bottom: 4px;
+    border-radius: 5px;
+    border: none;
+}
+
+.button {
+    color: white;
+    background: #56ff00a6;
+    text-align: center;
+    display: block;
+    padding: 10px;
+    width: 90%;
+    border-radius: 5px;
+    margin: 12px 0;
+    cursor: pointer;
+    font-weight: 700;
+    margin-bottom: 26px;
+}
+
